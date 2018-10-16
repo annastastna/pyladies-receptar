@@ -2,4 +2,4 @@
 Seznam receptu.
 
 Ahoj, sem budu házet recepty.
-bla bla Zuzka
+bla bla
